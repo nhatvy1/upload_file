@@ -13,7 +13,7 @@ async function bootstrap() {
 
   useContainer(app.select(AppModule), { fallbackOnErrors: true })
 
-  app.setGlobalPrefix('api')
+  app.setGlobalPrefix('api/v1')
 
   app.useGlobalPipes(new ValidationPipe({ transform: true, whitelist: true }))
   app.useGlobalInterceptors(new TransformInterceptor(reflector))
