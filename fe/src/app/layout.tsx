@@ -31,7 +31,7 @@ export default function RootLayout({
       >
         <ProvidersCSS>
           {children}
-          <ProgressUpload />
+          {/* <ProgressUpload /> */}
         </ProvidersCSS>
       </body>
     </html>

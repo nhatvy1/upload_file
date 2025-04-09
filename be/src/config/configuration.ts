@@ -20,4 +20,5 @@ export default () => ({
     file_log_name_err: process.env.FILE_LOG_NAME_ERR, 
     max_size_file_log_info: process.env.MAX_SIZE_FILE_LOG_INFO
   },
+  max_file_upload: process.env.MAX_FILE_UPLOAD
 })

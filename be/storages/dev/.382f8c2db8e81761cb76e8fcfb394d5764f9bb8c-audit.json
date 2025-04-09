@@ -9,6 +9,16 @@
             "date": 1743838522141,
             "name": "storages/dev/error-05-04-2025.log",
             "hash": "43adc47adc82429470f23423041cc564fac6e495feb3b221e2ff17d28028812f"
+        },
+        {
+            "date": 1744079505995,
+            "name": "storages/dev/error-08-04-2025.log",
+            "hash": "b3122d081e274ee2ed2c0d99026ed8797cc8378f548e6883cb9a4a990fb05b5f"
+        },
+        {
+            "date": 1744166370968,
+            "name": "storages/dev/error-09-04-2025.log",
+            "hash": "db0c6e37c8bd6e8509fa9caf3966ed4cc6e2a669fc4c41bfb5a7251db5dfc18d"
         }
     ],
     "hashType": "sha256"

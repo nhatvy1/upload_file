@@ -9,6 +9,16 @@
             "date": 1743838522140,
             "name": "storages/dev/info-05-04-2025.log",
             "hash": "c2ec50f2966c91f94260479ffb22c35454313fd4508838afc8380f5aa9e6fafc"
+        },
+        {
+            "date": 1744079505993,
+            "name": "storages/dev/info-08-04-2025.log",
+            "hash": "779b2e0a5b5cb533a933aebe3c9038f53bc7ede810ad6cd89d0d639d24c763d3"
+        },
+        {
+            "date": 1744166370967,
+            "name": "storages/dev/info-09-04-2025.log",
+            "hash": "af797435147ee5eef537c088899d915eaa73057253c2daa5cf12b87647560088"
         }
     ],
     "hashType": "sha256"
